@@ -8,6 +8,8 @@ public class Seleniumtest {
 	public void seleniumlogin()
 	{
 		System.out.println("applogin");
+		System.out.println("Person 1 commits code");
+		System.out.println("I am learning github for first time");
 	}
 	
 	@Test
