@@ -16,8 +16,9 @@ public class Seleniumtest {
 	public void seleniumsignup()
 	{
 		System.out.println("appsignup");
-		System.out.println("Person 2 commits code");
-		System.out.println("I am learning github for second time");
+
+		System.out.println("I am doing important changes in developbrch not in master");
+
 	}
 
 	
