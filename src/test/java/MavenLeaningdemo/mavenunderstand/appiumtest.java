@@ -27,6 +27,8 @@ public class appiumtest {
 	public void appnavigate()
 	{
 		System.out.println("appnavigate");
+		System.out.println("making change");
+		
 	}
 
 
